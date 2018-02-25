@@ -4,9 +4,54 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>AppCenter-Config.plist</key>
+		<data>
+		mFL13nPEGcZDNtQh1RrOBRmgr1s=
+		</data>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
-		DD6zzIFEF37GT8I9rM23eOMWt3M=
+		m5wFEfMlnh+IwTy+Zgbog3lL9Q4=
+		</data>
+		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
+		<data>
+		ooz0sIAaLKBGoFU5iKq8DR11NmY=
+		</data>
+		<key>Frameworks/IDEBundleInjection.framework/Info.plist</key>
+		<data>
+		R/knOPjsjrJNiVtUa2S4kYE749M=
+		</data>
+		<key>Frameworks/IDEBundleInjection.framework/_CodeSignature/CodeResources</key>
+		<data>
+		qcVgsOCxIzxwcNXLWXgRrNjnuT8=
+		</data>
+		<key>Frameworks/IDEBundleInjection.framework/version.plist</key>
+		<data>
+		K7jOt4uC+lqy/StneXlQVk21axY=
+		</data>
+		<key>Frameworks/XCTest.framework/Info.plist</key>
+		<data>
+		CYfyvPIGUR84QvCD7SuNDvG6Bxc=
+		</data>
+		<key>Frameworks/XCTest.framework/XCTest</key>
+		<data>
+		M3EBma1BpAxt7iGIjYcrm9BnNOc=
+		</data>
+		<key>Frameworks/XCTest.framework/_CodeSignature/CodeResources</key>
+		<data>
+		5EUn1qFgVTwSkfSLCubcLwgrx0c=
+		</data>
+		<key>Frameworks/XCTest.framework/en.lproj/InfoPlist.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TuBj57ZP6zBqcL9HttO2Rucaw9E=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/XCTest.framework/version.plist</key>
+		<data>
+		Etc/8BPenX54rv1uBx24u4bnqTg=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -16,18 +61,205 @@
 		<data>
 		n57qDP4tZfLD1rCS43W0B4LQjzE=
 		</data>
+		<key>PlugIns/RuffDraftTests.xctest.dSYM/Contents/Info.plist</key>
+		<data>
+		pDYKKfR5Sl4Dd5JfaZzA/JY8i8Q=
+		</data>
+		<key>PlugIns/RuffDraftTests.xctest.dSYM/Contents/Resources/DWARF/RuffDraftTests</key>
+		<data>
+		nB/spYyvzvLoFpWqyImuU9HEyz4=
+		</data>
+		<key>PlugIns/RuffDraftTests.xctest/Info.plist</key>
+		<data>
+		83po/lqdI+0e5AfN3vrHfBdHA4o=
+		</data>
+		<key>PlugIns/RuffDraftTests.xctest/RuffDraftTests</key>
+		<data>
+		TwGkTIpbTtB/FIFIL6Nzw9vKQ34=
+		</data>
+		<key>PlugIns/RuffDraftTests.xctest/_CodeSignature/CodeResources</key>
+		<data>
+		Qfjx2pMadQNAVRTfSFkKR0i9cJo=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>AppCenter-Config.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mFL13nPEGcZDNtQh1RrOBRmgr1s=
+			</data>
+			<key>hash2</key>
+			<data>
+			efQr55uPSaXG6QR121vRlqTmWFAXO4FKnljFh851gqQ=
+			</data>
+		</dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			DD6zzIFEF37GT8I9rM23eOMWt3M=
+			m5wFEfMlnh+IwTy+Zgbog3lL9Q4=
 			</data>
 			<key>hash2</key>
 			<data>
-			amzKB51WjToj77PF4P8zmcZxxxXWYk7gasGhYpG48dM=
+			tWnlSgVh3uqcBItrVkJAOkavwmPSiPLk4FyQM73Jwy4=
+			</data>
+		</dict>
+		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ooz0sIAaLKBGoFU5iKq8DR11NmY=
+			</data>
+			<key>hash2</key>
+			<data>
+			QTZkTlnemyTcrFMb3v3GdQcfmpRodaOjtevd5TjxiiY=
+			</data>
+		</dict>
+		<key>Frameworks/IDEBundleInjection.framework/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			R/knOPjsjrJNiVtUa2S4kYE749M=
+			</data>
+			<key>hash2</key>
+			<data>
+			wLDjbULmM78l0rN5jh2/yPax234qVZL29OQBQmdYmOU=
+			</data>
+		</dict>
+		<key>Frameworks/IDEBundleInjection.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qcVgsOCxIzxwcNXLWXgRrNjnuT8=
+			</data>
+			<key>hash2</key>
+			<data>
+			ZARlo4LD/z4nYhaCEocjb6nPjuZDCrLsQzn0n4GVr3s=
+			</data>
+		</dict>
+		<key>Frameworks/IDEBundleInjection.framework/version.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			K7jOt4uC+lqy/StneXlQVk21axY=
+			</data>
+			<key>hash2</key>
+			<data>
+			VzM0aDQjkmLy+IyPasdn9DeGkOOTuNMbKUMz+3efAaU=
+			</data>
+		</dict>
+		<key>Frameworks/XCTest.framework/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CYfyvPIGUR84QvCD7SuNDvG6Bxc=
+			</data>
+			<key>hash2</key>
+			<data>
+			Xsgm2dBly62EneiB04ryti89smi53XIXAOtYLFyW4ZE=
+			</data>
+		</dict>
+		<key>Frameworks/XCTest.framework/XCTest</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			M3EBma1BpAxt7iGIjYcrm9BnNOc=
+			</data>
+			<key>hash2</key>
+			<data>
+			qAlGOWS6ltLA/WrYd4Rz6EHPivttCiNu41NTW7ulBAI=
+			</data>
+		</dict>
+		<key>Frameworks/XCTest.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5EUn1qFgVTwSkfSLCubcLwgrx0c=
+			</data>
+			<key>hash2</key>
+			<data>
+			55ZdMLgNGz7Q67XNAv/M4f4uXy0R2d5+tlHRhlkL8t4=
+			</data>
+		</dict>
+		<key>Frameworks/XCTest.framework/en.lproj/InfoPlist.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TuBj57ZP6zBqcL9HttO2Rucaw9E=
+			</data>
+			<key>hash2</key>
+			<data>
+			89RGkjZaKuewYnjpzwhIswhqfrU8+pcEXqM/DHVrUmo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/XCTest.framework/version.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Etc/8BPenX54rv1uBx24u4bnqTg=
+			</data>
+			<key>hash2</key>
+			<data>
+			Jh5i9giCFfo5GhN25CjMKdDJ6Kdlz/p4L95RITR+WeA=
+			</data>
+		</dict>
+		<key>PlugIns/RuffDraftTests.xctest.dSYM/Contents/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pDYKKfR5Sl4Dd5JfaZzA/JY8i8Q=
+			</data>
+			<key>hash2</key>
+			<data>
+			SQcJJoxqe2bm6zjrB+FUdrHJ5sqkshycVaN/QoDIbzA=
+			</data>
+		</dict>
+		<key>PlugIns/RuffDraftTests.xctest.dSYM/Contents/Resources/DWARF/RuffDraftTests</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			nB/spYyvzvLoFpWqyImuU9HEyz4=
+			</data>
+			<key>hash2</key>
+			<data>
+			vzcnD7dOdY5/EDj+a7/gvjsf2/heB+X10f2hx4NMGDg=
+			</data>
+		</dict>
+		<key>PlugIns/RuffDraftTests.xctest/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			83po/lqdI+0e5AfN3vrHfBdHA4o=
+			</data>
+			<key>hash2</key>
+			<data>
+			BwqhdSqB+fFaFcGb+4slRkaLpgg1sqS2qIfDJG9PI7s=
+			</data>
+		</dict>
+		<key>PlugIns/RuffDraftTests.xctest/RuffDraftTests</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TwGkTIpbTtB/FIFIL6Nzw9vKQ34=
+			</data>
+			<key>hash2</key>
+			<data>
+			kZwpiehkFdTYoxNeqBzFDGe7iIvktGopC2Ozd0saOR0=
+			</data>
+		</dict>
+		<key>PlugIns/RuffDraftTests.xctest/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Qfjx2pMadQNAVRTfSFkKR0i9cJo=
+			</data>
+			<key>hash2</key>
+			<data>
+			l5JZ+XGiVYxD719XSrFZoXRM5FhAQux146g+xsfHfZ4=
 			</data>
 		</dict>
 	</dict>
